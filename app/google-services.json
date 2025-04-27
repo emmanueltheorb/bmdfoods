@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "171328884240",
+    "firebase_url": "https://bmd-admin-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "bmd-admin",
+    "storage_bucket": "bmd-admin.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:171328884240:android:5e4aead77a296d77bd0495",
+        "android_client_info": {
+          "package_name": "com.orb.bmdadmin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQr56WAKQoyXBWIVdcXH2E1Baru1O_wLY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:171328884240:android:c6405e59ab18a443bd0495",
+        "android_client_info": {
+          "package_name": "com.orb.bmdfoods"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQr56WAKQoyXBWIVdcXH2E1Baru1O_wLY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
